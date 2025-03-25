@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Connecticut Open Data Handbook
-description: A resource for publishers of open data in Connecticut state government
-baseurl: "/open-data-handbook" # the subpath of your site, e.g. /blog
-url: "https://ctopendata.github.io/open-data-handbook/" # the base hostname & protocol for your site, e.g. http://example.com
+title: P20 WIN Data Governance Manual
+description: A resource for participating agencies and prospective data requestors
+baseurl: "/data-governance" # the subpath of your site, e.g. /blog
+url: "https://p20-win.github.io/data-governance/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # URLs
 baseurl: ""
@@ -50,7 +50,7 @@ footer_external_links:
 footer_hosted_with_love:
   en:
     label: "GitHub Repository"
-    url: https://github.com/CTOpenData/open-data-handbook
+    url: https://github.com/P20-WIN/data-governance
 
 # Collections
 collections:

@@ -3,58 +3,34 @@ layout: home
 title: Introduction
 nav_order: 1
 ---
-# Introduction 
 
-This handbook is for Connecticut state employees who want to publish open data on the [CT Open Data Portal](https://data.ct.gov/){:target="_blank"} and the [CT Geodata Portal](https://geodata.ct.gov/){:target="_blank"}.
+<img src="assets/P20WINlogo_color.png" width="750">
 
-{: .note-title }
-> {: .opaque }
->💡 **What is open data?**
->
->Open data is data that is: 
->
->* Freely available for download, indexing, and searching;
->* Accessible in a machine-readable format; 
->* Not limited by restrictions of use; 
->* Published at the finest level of detail permitted by law; and 
->* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
+## About the P20 WIN Data Governance Manual 
 
-{: .note-title }
-> {: .opaque }
->💡 **Open data roles**
->
->Some key roles associated with publishing data on the CT Open Data Portal and the CT Geodata Portal are: 
->
->* **Data steward**. The data steward is the person at the agency with the most knowledge about the data who has the authority to make decisions about the data in their domain. They lead the preparation of the data and metadata for publication. 
->* **Data custodian**. The data custodian is the person at the agency with the technical knowledge about how the data is stored and how it can be extracted. They support the access, extraction, and automation of the data. 
->* **Open data coordinator**. The open data coordinator is part of the Data and Policy Analytics team in the Office of Policy and Management. They work with data stewards and data custodians at state agencies to coordinate the publication of data to the CT Open Data Portal. 
->* **GIS coordinator**. The GIS coordinator is part of the GIS Office in the Office of Policy and Management. They work with data stewards and data custodians at state agencies to coordinate the publication of data to the CT Geodata Portal. 
+Data governance can be defined as both an organizational process and a structure; it establishes responsibility for data, organizing program area staff to collaboratively and continuously improve data quality through the systematic creation and enforcement of policies, roles, responsibilities, and procedures. As a structure, clear and specific roles and responsibilities are assigned and staff are held accountable for the quality of the data they manage. Ultimately though, data governance is not about who is in charge: it is about identifying existing or potential data problems and fixing them to prevent them from happening or recurring. As a continuous and iterative process, data governance is a systematic way of handling data throughout the information life cycle, from definition to retirement. 
 
-## How to use this handbook 
+The P20 WIN Data Governance Manual details the structure, processes, roles and responsibilities that define its governance. <!-- The framework also introduces interagency data standards and key research objectives to assist Connecticut stakeholders appreciate P20 WIN.--> This manual expands on the previous P20 WIN Data Governance Policy, which empowered the P20 WIN Data Governing Board to develop more detailed standards and processes for data management. This is a living document, and will be updated as agency and state priorities evolve. If a new policy is created or an existing policy changed, the Manual will be updated to include a copy of the new policy for reference.
 
-This handbook walks through the steps for publishing data to the CT Open Data Portal and the CT Geodata Portal. Data publishers can use these steps as a reference when publishing open data. The steps for publishing open data include:
+<!-- State agencies and organizations that share data through P20 WIN are considered Participating Agencies in P20 WIN and are accountable to the processes as defined herein; however this is not a legal document. This manual is to be used as a roadmap when making decisions concerning the collection, integration, and use of the P20 WIN system, and it will be consistently evaluated for effectiveness. -->
 
-1. [Identify data to publish](data_publication_steps\identify_data_to_publish)
-2. [Prepare data for publication](data_publication_steps\prepare_data_for_publication)
-3. [Create metadata](data_publication_steps\create_metadata)
-4. [Upload data](data_publication_steps\upload_data)
-5. [Review and get approval](data_publication_steps\review_and_get_approval)
-6. [Update and maintain](data_publication_steps\update_and_maintain)
 
-This handbook also includes detailed guidance on several topics relating to open data including: 
+## Vision and Purpose
 
-1. [Preparing and formatting data](open_data_resources/data_preparation_and_formatting)
-2. [Aggregating data](open_data_resources/data_aggregation)
-3. [Automating data updates](open_data_resources/automation_guidance)
-4. [Writing clear metadata](open_data_resources/metadata_standards)
-5. [Developing data stories](open_data_resources/data_stories)
-6. [Measuring open data use](open_data_resources/measuring_open_data_use)
-7. [Retiring old data that are no longer being maintained](open_data_resources/data_retirement)
+Connecticut developed P20 WIN so that multiple, interagency datasets could be linked securely and simultaneously to create longitudinal views of student experiences into the workforce. Since 2014, the P20Win system has produced interagency data linkages for over [twenty projects](https://portal.ct.gov/OPM/P20Win/Reports).  
 
-## Get in touch!
+The following list delineates key goals and deliverables for P20 WIN: 
+1. Establish a longitudinal data system that includes supportive services, secondary and postsecondary education, and pathways into the workforce.
+2. Institute clear high-level, agency-wide sponsorship of data governance
+3. Integrate accountability for successful data management throughout all levels of each Participating Agency.
+4. Ensure data security for confidential information at rest and during transmission and the protection of individual privacy. 
+5. Provide clear definitions of user roles, system access and approval processes.
+6. Link data to address policy questions that would otherwise remain unanswered, through the development of a shared research agenda. 
+7. Introduce governance flexibility to include additional data points and datasets.
 
-This handbook is maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team in the Office of Policy and Management. We will continue to develop the Open Data Handbook as a resource for publishers of open data in Connecticut state agencies. 
+In order to successfully coordinate and secure authorized access to data through P20 WIN within state and federal laws and regulations, documents and processes have been developed and approved by participants to the system. 
 
-Let us know what other information you’d like to see included in this handbook by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
-
-Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u){:target="_blank"}. 
+* The **Enterprise Memorandum of Understanding (eMOU)** is a process document that establishes the governance structure, specifies privacy, breach notification and security requirements, determines the Data Sharing Process, and offers guidance when adding new agencies and changing or updating system processes. The Commissioner or chief executive for each participating agency signs the eMOU to join P20 WIN.
+* The **Data Sharing Agreement (DSA)** is a formal document between the data recipient and each Participating Agency once a Data Request has been approved. This document outlines the specific regulations that define how data are able to be used, responsibilities of each entity in the DSA, specific privacy and security requirements. Exhibits to the DSA include: the approved Data Request form, agency user acknowledgement, confidentiality agreements, data destruction, and the eMOU.
+  
+<!-- * This **Data Governance Manual** develops additional policies and procedures such as the processes to secure and authorize access to joined data. Embedded in this manual are forms to facilitate record-keeping and tracking of decisions pertaining to each data request. The manual includes a blank Data Sharing Request form and a template Data Sharing Agreement that is to be completed for each Data Request. -->

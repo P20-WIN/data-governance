@@ -1,0 +1,205 @@
+@import "./footer_custom";
+
+// Font Definitions - Keep only necessary ones
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 400;
+    src: url(../fonts/poppins-regular-webfont.woff2) format(woff2),
+         url(../fonts/poppins-regular-webfont.woff) format(woff);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: italic;
+    src: url(../fonts/poppins-italic-webfont.woff2) format(woff2),
+         url(../fonts/poppins-italic-webfont.woff) format(woff);
+}
+
+@font-face{
+    font-family: 'Poppins';
+    font-weight: 500;
+    src: url(../fonts/poppins-medium-webfont.woff2) format(woff2),
+         url(../fonts/poppins-medium-webfont.woff) format(woff);
+}
+
+// Include other necessary @font-face declarations similarly
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 500;
+}
+
+/* Navigation Links */
+.nav-list-link {
+    font-size: 1rem !important;
+    font-weight: 400;
+    color: #FFFFFF;
+    transition: background-color 0.3s ease-in-out; /* Smooth background-color transition */
+}
+
+/* Background color change on hover with fade-in effect */
+.nav-list > .nav-list-item > .nav-list-link:hover {   
+    background-image: none;
+    background-color: #4A87FA; /* Define the hover background color */
+}
+
+.nav-list > .nav-list-item > .nav-list-link.active {  
+    background-image: none;
+    background: #3371E7;
+}
+
+.nav-list-item, 
+.nav-list .nav-list-item,
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link,
+.nav-list > .nav-list-item > .nav-list-link.active,
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+    color: #FFFFFF;
+}
+
+.nav-category {
+    font-size: 1.2rem !important;
+    color: #FFFFFF;
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: none;
+}
+
+// Link Colors
+a {
+    color: #3371E7;
+}
+
+a:not([class]) {
+    text-decoration: underline;
+    text-decoration-color: $border-color;
+    text-underline-offset: 2px;
+
+    &:hover {
+        text-decoration-color: rgba(#3371E7, 0.45);
+    }
+}
+
+// Icon Colors
+.icon, .nav-list .nav-list-item .nav-list-expander,
+.search-input:focus + .search-label .search-icon,
+.search-result-doc .search-result-icon {
+    color: #FFFFFF;
+}
+
+// Anchor link color
+.main-content .anchor-heading svg {
+    color: #3371E7;
+}
+
+// Active navlist arrow icon color
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
+// Button Colors
+.btn, .btn-outline {
+    color: #3371E7;
+}
+
+.btn-outline:hover, 
+.btn-outline:active, 
+.btn-outline.zeroclipboard-is-hover, 
+.btn-outline.zeroclipboard-is-active {
+    color: #3371E7;
+}
+
+// Sidebar and Footer
+.side-bar {
+    background-color: #3371E7;
+}
+
+.site-footer {
+    display: none;
+}
+
+// Layout
+.site-header {
+    min-height: 8rem;
+}
+
+.site-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.75rem !important;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.site-title:hover {
+    background: #3371E7; 
+}
+
+.site-nav {
+    padding-top: 1rem;
+}
+
+.site-button:hover {
+    background-image: none;
+}
+
+// Post Navigation
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: $spacing-unit;
+
+    div {
+        flex: 1 1 0;
+
+        &:first-child {
+            padding-right: 0.5em;
+        }
+
+        &:last-child {
+            padding-left: 0.5em;
+            text-align: right;
+        }
+    }
+}
+
+// Skip to Main Navigation
+a.skip-to-main:focus,
+a.skip-to-main:active {
+    color: #3371E7;
+}
+
+// Scrollbar Styling
+/* Webkit Browsers: Chrome, Edge */
+::-webkit-scrollbar {
+    width: 5px; /* width of the entire scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FFFFFF; /* color of the scroll thumb */
+    border-radius: 10px; /* roundness of the scroll thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: transparent; /* color of the scroll thumb when hovered */
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin; /* scrollbar width: auto, thin, or none */
+    scrollbar-color: #FFFFFF transparent; /* thumb color and track color */
+}
+
+/* General */
+body {
+    overflow-y: scroll; /* ensures vertical scroll bar is always visible */
+}

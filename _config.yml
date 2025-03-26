@@ -53,8 +53,6 @@ footer_hosted_with_love:
     url: https://github.com/P20-WIN/data-governance
 
 # Collections
-collections_dir: docs
-
 collections:
   data_governance_structure:
     output: true
@@ -65,6 +63,8 @@ collections:
   policies:
     output: true
     sort_by: nav_order
+
+collections_dir: docs
 
 defaults:
   - scope:

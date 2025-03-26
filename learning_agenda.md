@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Learning agenda
+permalink: /learning_agenda
 nav_order: 24
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Definitions
+permalink: /definitions
 nav_order: 2
 ---
 # Definitions 

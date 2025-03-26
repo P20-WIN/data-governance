@@ -2,7 +2,6 @@
 layout: page
 title: Learning agenda
 permalink: /learning_agenda
-nav_order: 24
 ---
 
 # Learning agenda 

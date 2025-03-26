@@ -1,9 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
 title: P20 WIN Data Governance Manual
 description: A resource for participating agencies and prospective data requestors
 baseurl: "/data-governance" # the subpath of your site, e.g. /blog
 url: "https://p20-win.github.io/data-governance/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # URLs
+baseurl: ""
+url: ""
 permalink: pretty
 
 # Languages
@@ -11,8 +33,11 @@ languages: ["en"]
 default_lang: "en"
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+
 favicon_ico: "/assets/favicon.ico"
+
 search_enabled: true
 
 nav_external_links: []
@@ -28,43 +53,72 @@ footer_hosted_with_love:
     url: https://github.com/P20-WIN/data-governance
 
 # Collections
+collections:
+  data_governance_structure:
+    output: true
+    sort_by: nav_order
+  key_processes:
+    output: true
+    sort_by: nav_order
+  policies:
+    output: true
+    sort_by: nav_order
+
+collections_dir: docs
+
 defaults:
   - scope:
       path: "**/*.md"
       type: "data_governance_structure"
     values:
       layout: "default"
-      has_children: true
   - scope:
       path: "**/*.md"
       type: "key_processes"
     values:
       layout: "default"
-      has_children: true
   - scope:
       path: "**/*.md"
       type: "policies"
     values:
       layout: "default"
-      has_children: true
 
 just_the_docs:
+  # Define which collections are used in just-the-docs
   collections:
+    # Reference the "docs" collection
     data_governance_structure:
-      name: Data Governance Structure
-      has_children: true
+      name: Data governance structure
       nav_exclude: false
       search_exclude: false
-      nav_fold: false
+      nav_fold: true
     key_processes:
-      name: Key Processes
-      has_children: true
+      name: Key processes
       nav_exclude: false
       search_exclude: false
       nav_fold: true
     policies:
       name: Policies
-      has_children: true
       nav_exclude: false
       search_exclude: false
       nav_fold: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

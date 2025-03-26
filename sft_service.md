@@ -2,6 +2,7 @@
 layout: page
 title: Enterprise Secure File Transport (SFT) Service 
 permalink: /sft_service
+nav_order: 26
 ---
 
 # Enterprise Secure File Transport (SFT) Service 

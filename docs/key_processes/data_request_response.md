@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Tool comparison
-parent: Data Request Response
+title: Data Request Response
 permalink: /key_processes/data_request_response
 nav_order: 9
 ---

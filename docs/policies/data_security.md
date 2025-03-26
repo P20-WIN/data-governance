@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Other resources
-permalink: /other_resources
-nav_order: 24
+title: Data security
+permalink: /policies/data_security
+nav_order: 18
 ---
 
 # Other open data resources

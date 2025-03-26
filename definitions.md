@@ -3,6 +3,7 @@ layout: page
 title: Definitions
 nav_order: 2
 ---
+# Definitions 
 
 **Data definitions** mean the plain language descriptions of data elements.
 

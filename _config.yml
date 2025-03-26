@@ -54,13 +54,13 @@ footer_hosted_with_love:
 
 # Collections
 collections:
-  data_publication_steps:
+  data_governance_structure:
     output: true
     sort_by: nav_order
-  open_data_resources:
+  key_processes:
     output: true
     sort_by: nav_order
-  other_resources:
+  policies:
     output: true
     sort_by: nav_order
 
@@ -69,17 +69,17 @@ collections_dir: docs
 defaults:
   - scope:
       path: "**/*.md"
-      type: "data_publication_steps"
+      type: "data_governance_structure"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "open_data_resources"
+      type: "key_processes"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "other_resources"
+      type: "policies"
     values:
       layout: "default"
 
@@ -87,18 +87,18 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "docs" collection
-    data_publication_steps:
-      name: Data publication steps
+    data_governance_structure:
+      name: Data Governance Structure
       nav_exclude: false
       search_exclude: false
       nav_fold: false
-    open_data_resources:
-      name: Open data resources
+    key_processes:
+      name: Key Processes
       nav_exclude: false
       search_exclude: false
       nav_fold: true
-    other_resources:
-      name: Other resources
+    policies:
+      name: Policies
       nav_exclude: false
       search_exclude: false
       nav_fold: true

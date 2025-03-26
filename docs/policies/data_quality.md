@@ -2,7 +2,7 @@
 layout: page
 title: Data quality
 permalink: /policies/data_quality
-nav_order: 17
+nav_order: 19
 ---
 
 # Data Quality

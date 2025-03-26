@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning agenda
-nav_order: 22
+nav_order: 24
 ---
 
 # Learning agenda 

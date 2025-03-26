@@ -2,7 +2,7 @@
 layout: page
 title: Introduction
 permalink: /policies/intro
-nav_order: 16
+nav_order: 18
 ---
 
 # Data policies

@@ -2,7 +2,7 @@
 layout: page
 title: Metadata and data dictionaries 
 permalink: /policies/metadata
-nav_order: 20
+nav_order: 22
 ---
 
 ## Metadata and data dictionaries 

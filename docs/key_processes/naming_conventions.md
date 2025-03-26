@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Standard naming convention for files and data elements
+parent: Determination of requirements for data providers
 permalink: /key_processes/data_provider_requirements/naming_conventions
 nav_order: 13
 ---

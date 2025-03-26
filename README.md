@@ -8,4 +8,6 @@ A resource for publishers of open data in Connecticut state government
 | ----------- | ----------- | ----------- |
 | V1.0.0      | January 2023    | Initial release |
 | V1.1.0      | June 2024    | Update theme |
+| V2          | March 2025   | Update theme |
+
 

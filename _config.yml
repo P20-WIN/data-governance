@@ -88,12 +88,12 @@ just_the_docs:
   collections:
     # Reference the "docs" collection
     data_governance_structure:
-      name: Data Governance Structure
+      name: Data governance structure
       nav_exclude: false
       search_exclude: false
       nav_fold: false
     key_processes:
-      name: Key Processes
+      name: Key processes
       nav_exclude: false
       search_exclude: false
       nav_fold: true

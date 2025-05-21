@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Data Governing Board
-permalink: /data_governance_structure/data_governing_board
-nav_order: 10
+title: Data Governing Board Decision Making Process
+permalink: /data_governance_structure/data_governing_board_process
+parent: /data_governance_structure/data_governing_board
+nav_order: 13
 ---
 
 # Data Governing Board

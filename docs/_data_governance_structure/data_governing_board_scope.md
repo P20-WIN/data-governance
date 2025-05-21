@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Data Governing Board
-permalink: /data_governance_structure/data_governing_board
-nav_order: 10
+title: Data Governing Board Scope and Responsibility
+permalink: /data_governance_structure/data_governing_board_scope
+parent: /data_governance_structure/data_governing_board
+nav_order: 11
 ---
 
 # Data Governing Board

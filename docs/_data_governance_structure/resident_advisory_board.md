@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Resident Advisory Board
-permalink: /data_governance_structure/resident_advisory_board
-nav_order: 6
+permalink: /data_governance_structure/model/resident_advisory_board
+parent: /data_governance_structure/model
+nav_order: 5
 ---
 
 # Resident Advisory Board

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Introduction
-permalink: /data_governance_structure/intro
-nav_order: 3
+title: Participating Agencies
+permalink: /data_governance_structure/model/agencies
+parent: /data_governance_structure/model
+nav_order: 4
 ---
 
 # P20 WIN Data Governance Structure

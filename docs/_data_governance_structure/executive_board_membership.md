@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Executive Board
-permalink: /data_governance_structure/executive_board
-nav_order: 6
+title: Executive Board Membership
+permalink: /data_governance_structure/executive_board_membership
+parent: /data_governance_structure/executive
+nav_order: 8
 ---
 
 # Executive Board

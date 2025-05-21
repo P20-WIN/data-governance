@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Executive Board
-permalink: /data_governance_structure/executive_board
-nav_order: 6
+title: Executive Board Decision Making Process
+permalink: /data_governance_structure/executive_board_process
+parent: /data_governance_structure/executive
+nav_order: 9
 ---
 
 # Executive Board

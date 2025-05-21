@@ -2,7 +2,7 @@
 layout: page
 title: Modification to policies
 permalink: /key_processes/policy_modification
-nav_order: 17
+nav_order: 27
 ---
 
 # Modification to this policy

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Data Stewards
-permalink: /data_governance_structure/data_stewards
-nav_order: 14
+title: System Support
+permalink: /data_governance_structure/program_support/system
+parent: /data_governance_structure/program_support
+nav_order: 16
 ---
 
 # Data Stewards

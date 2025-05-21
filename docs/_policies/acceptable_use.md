@@ -2,7 +2,7 @@
 layout: page
 title: Acceptable use
 permalink: /policies/acceptable_use
-nav_order: 23
+nav_order: 33
 ---
 
 # Acceptable use

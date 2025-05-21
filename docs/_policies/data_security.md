@@ -2,7 +2,7 @@
 layout: page
 title: Data security
 permalink: /policies/data_security
-nav_order: 20
+nav_order: 30
 ---
 
 # Other open data resources

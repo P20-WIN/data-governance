@@ -2,7 +2,7 @@
 layout: page
 title: Determination of authorized users and access rights to resultant datasets
 permalink: /key_processes/authorized_users_and_access
-nav_order: 10
+nav_order: 20
 ---
 
 # Determination of authorized users and access rights to resultant datasets

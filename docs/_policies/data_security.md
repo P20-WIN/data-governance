@@ -1,40 +1,12 @@
 ---
 layout: page
-title: Data SSecurity
+title: Data Security
 permalink: /policies/data_security
 parent: Data Access and Privacy Policies
-nav_order: 31
+nav_order: 33
 ---
 
-# Other open data resources
+# Data Security   
+The importance of securing sensitive data cannot be understated; therefore, the following provisions will be followed by agencies and their staff who participate in P20 WIN.  The provisions listed in this manual reflect do not replicate the language in the E-MOU which enables participation in P20 WIN.  
 
-This page provides access to open data resources from other sources. 
-
-## Tyler Tech Support
-
-Tyler Technologies Data & Insights (formerly known as Socrata) provides the platform for the CT Open Data Portal. Tyler Tech has a number of support articles and how-to videos, highlighted below. When data publishers on the Portal have a technical issue that the Open Data Coordinator can't resolve, we can submit a help ticket to Tyler Tech at the link below.
-
-* [Tyler Tech knowledge base](https://support.socrata.com/hc/en-us){:target="_blank"} 
-* [Getting started](https://support.socrata.com/hc/en-us/categories/360000024667){:target="_blank"} 
-* [Developer tools/APIs](https://dev.socrata.com/){:target="_blank"} 
-* [How-to videos](https://support.socrata.com/hc/en-us/categories/360000713713){:target="_blank"} 
-* [Sign up for product updates](https://support.socrata.com/hc/en-us/articles/115007200247-Be-in-the-know-and-stay-informed-){:target="_blank"} 
-* [Submit a help ticket to Tyler Tech](https://support.socrata.com/hc/en-us/requests/new){:target="_blank"} 
-
-## GIS data 
-
-The links below provide more information about GIS data online, including a resource from Esri and several Connecticut GIS resources.
-
-* [Get Started with ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/get-started/get-started.htm){:target="_blank"} 
-* [CT GIS Office](https://portal.ct.gov/datapolicy/GIS-Office?language=en_US){:target="_blank"} 
-* [Broadband Mapping Hub](https://ctbroadband-ctmaps.hub.arcgis.com/){:target="_blank"} 
-* [DOT GIS Portal](https://connecticut-ctdot.opendata.arcgis.com/){:target="_blank"} 
-* [DEEP GIS Portal](https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/){:target="_blank"} 
-
-## Data visualization tools
-
-The resources below can help you get started visualizing open data.
-
-* [CT Data Visualization and Accessibility Guidelines](https://ctopendata.github.io/data-visualization-guidelines/){:target="_blank"}
-* [Datawrapper](https://app.datawrapper.de/){:target="_blank"}
-* [Tableau Public](https://public.tableau.com/app/discover){:target="_blank"}
+Transmission and storage of all data pertaining to individual’s educational records and unemployment insurance records will adhere to generally accepted best practice standards related to information security, including, but not limited to, commercially available and widespread precautionary measures, such as firewall implementation, virus scanning, security access control software, logical encryption of data as it leaves the data boundary, secure tunnels and limitation of physical access to confidential information and PII.  Upon the reasonable request, the Authorized Representative will disclose and review related policies, procedures, and practices. 

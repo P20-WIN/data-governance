@@ -3,18 +3,21 @@ layout: page
 title: Assessing Data Quality
 permalink: /policies/assessing_data_quality
 parent: Data Quality and Control Policies
-nav_order: 36
+nav_order: 40
 ---
 
-## Metadata and data dictionaries 
+# Assessing Data Quality
+P20 WIN is a system where the quality of linked data depends on multiple factors.  As shared data is linked using probabilistic data matching routines there will be intrinsic variance between matches from one query to another.  For the Data Governing Board and the Approved Data Requestor to be confident that the linked data is of sufficient quality to produce a valid audit or evaluation, the following factors need to be considered for each matched data set.
 
-Metadata is structured data about data. High quality metadata provides helpful context about the data’s creation, quality, and uses and is key to improving data discovery. Metadata helps to answer the question “what is the data about?” by providing more detail about various characteristics of the data, including information about the data source, update frequency, and level of detail. Dataset metadata elements should include:
-
-- Human-readable name of the dataset
-- A description of what the dataset entails 
-- The number of rows 
-- Temporal coverage 
-- The update frequency  
-- Any unique identifier
-
-Related guidance for metadata on the open data portal can be found here. Participating Agencies should provide key metadata to accompany the interagency Data Dictionary fields. The Data Governing Board is responsible for developing, documenting and monitoring Data Definitions and Metadata for shared Data Elements within the cross-agency Data Dictionary. The Operating Group works with the Data Governing Board to ensure that the Data Dictionary for each Participating Agency is complete and up-to-date. 
+- How many fields were available for conducting the match?
+- What is the confidence interval for matches made?
+- What percentage of records is populated or data elements with null values?
+- What is the history for data elements with no value or many null values?
+- Have the data fields been consistently updated?
+- Is the data field new?
+- Is a null value normal for that element?
+- What is the meaning of un-matched records?
+- Are any data elements used in the query actually proxies for better measures?  If yes, does the inclusion of proxies significantly dilute or skew the results?)
+- Is there an inherent bias in the results based upon the presence or absence of subgroups within the population being queried?	
+- Can any concerns about data quality be sufficiently articulated and communicated to the intended audience?
+- Does the potential for meaningful and important insight override concerns about data quality to warrant continued analysis?

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Input file format
+title: Input File Format
 permalink: /key_processes/data_provider_requirements/input_file_format
 parent: /key_processes/data_provider_requirements
-nav_order: 22
+nav_order: 28
 ---
 
 # Input File Format

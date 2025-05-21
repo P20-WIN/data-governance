@@ -2,18 +2,12 @@
 layout: page
 title: Data Access and Privacy Policies
 permalink: /policies/data_access_and_privacy
-nav_order: 28
+nav_order: 30
 ---
 
-## Metadata and data dictionaries 
+# Data Access and Privacy Policies
 
-Metadata is structured data about data. High quality metadata provides helpful context about the data’s creation, quality, and uses and is key to improving data discovery. Metadata helps to answer the question “what is the data about?” by providing more detail about various characteristics of the data, including information about the data source, update frequency, and level of detail. Dataset metadata elements should include:
+The Data Access & Privacy Policy is articulated all data sharing agreements that have been established between the participating and hosting agencies. Together these agreements form the policy that establishes how data linked through P20 WIN will be managed so that access is limited, data are secure, and privacy is maintained. Official documents are located at: http://www.ct.edu/initiatives/p20win#process. The language in this section is intended to highlight key information from these data sharing agreements and provide additional detail as to how data access and privacy will be managed in practice.  
 
-- Human-readable name of the dataset
-- A description of what the dataset entails 
-- The number of rows 
-- Temporal coverage 
-- The update frequency  
-- Any unique identifier
+P20 WIN and its participating agencies adhere to the confidentiality requirements of both federal state laws including but not limited to the Family Educational Rights and Privacy Act (FERPA), the Individuals with Disabilities Education Act (IDEA), the Protection of Pupil Rights Amendment (PPRA), the National School Lunch Act, the Health Insurance Portability and Accountability Act (HIPPA) and state and federal labor law. The following definitions pertinent to addressing privacy issues are derived from these and other related documents.
 
-Related guidance for metadata on the open data portal can be found here. Participating Agencies should provide key metadata to accompany the interagency Data Dictionary fields. The Data Governing Board is responsible for developing, documenting and monitoring Data Definitions and Metadata for shared Data Elements within the cross-agency Data Dictionary. The Operating Group works with the Data Governing Board to ensure that the Data Dictionary for each Participating Agency is complete and up-to-date. 

@@ -1,20 +1,15 @@
 ---
 layout: page
-title: Process for Improving Data Quality
+title: Improving Data Quality
 permalink: /policies/improving_data_quality
 parent: Data Quality and Control Policies
-nav_order: 37
+nav_order: 41
 ---
 
-## Metadata and data dictionaries 
+# Process for Improving Data Quality
+Because data quality issues can develop at any point during collection, storage or transformation, data quality improvement processes need to function at multiple levels and across the data sharing structure.  In order to prevent and rectify data quality issues as they become known, Participating Agencies will do the following:
 
-Metadata is structured data about data. High quality metadata provides helpful context about the data’s creation, quality, and uses and is key to improving data discovery. Metadata helps to answer the question “what is the data about?” by providing more detail about various characteristics of the data, including information about the data source, update frequency, and level of detail. Dataset metadata elements should include:
-
-- Human-readable name of the dataset
-- A description of what the dataset entails 
-- The number of rows 
-- Temporal coverage 
-- The update frequency  
-- Any unique identifier
-
-Related guidance for metadata on the open data portal can be found here. Participating Agencies should provide key metadata to accompany the interagency Data Dictionary fields. The Data Governing Board is responsible for developing, documenting and monitoring Data Definitions and Metadata for shared Data Elements within the cross-agency Data Dictionary. The Operating Group works with the Data Governing Board to ensure that the Data Dictionary for each Participating Agency is complete and up-to-date. 
+- Ensure that data users and data owners have representation on the Data Steward Committee to help identify and improve data quality.  
+- Identify a process whereby the agency Data Governing Board representative and that agency’s Data Stewards have designated time for regular communication about data quality issues.
+- Utilize a log as provided by the P20 WIN Manager for identifying and tracking data quality issues pertinent to P20-WIN data quality.
+- Have a continued effort to maintain and improve documentation about shared data elements. 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creation of policies to sustain P20 WIN	
+title: Policy Creation
 permalink: /key_processes/policy_creation
 nav_order: 26
 ---

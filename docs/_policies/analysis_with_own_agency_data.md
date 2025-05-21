@@ -1,20 +1,13 @@
 ---
 layout: page
-title: Conducting Analysis with Your Own Agency's Data
+title: Analysis with Your Agency's Data
 permalink: /policies/docs/_policies/analysis_with_own_agency_data
 parent: Data Quality and Control Policies
-nav_order: 42
+nav_order: 46
 ---
 
-## Metadata and data dictionaries 
+# Conducting Analysis with Your Own Agency’s Data
+When an agency is conducting an audit or evaluation that contains data from their own agency, the agency must destroy the link between the source data and the data sets created to conduct the match in order to ensure that the analyst or others within the agency are not able to accidentally re-identify individuals in the resultant data set.  For example, if the CSCU were conducting analysis that includes SDE, CSCU and DOL data, the original data set that we used to create the match would contain student identifiers and a fake ID.  After the match is complete, CSCU would only receive back from DOL a matrix of fake ID’s; however, it is technically possible for the analyst to reattach the analytical data back to a source file or data preparation file if the original files containing both the fake and original ID’s still exist.  In order to mitigate this situation, the source agency must verify to DOL that they have destroyed this connection before DOL will transfer the matrix of fake IDs to them.
 
-Metadata is structured data about data. High quality metadata provides helpful context about the data’s creation, quality, and uses and is key to improving data discovery. Metadata helps to answer the question “what is the data about?” by providing more detail about various characteristics of the data, including information about the data source, update frequency, and level of detail. Dataset metadata elements should include:
+In summary, in situations where the Authorized Representative is not DOL, the Authorized Rep. will e-mail DOL that they have destroyed the link between the primary and fake identifiers before DOL will provide them the matrix of fake ID’s. In a situation where the Authorized Representative is DOL, then DOL will e-mail, the other Participating Agencies that they have destroyed the link between original and fake identifiers before the Participating Agencies will provide the data files for analysis.  
 
-- Human-readable name of the dataset
-- A description of what the dataset entails 
-- The number of rows 
-- Temporal coverage 
-- The update frequency  
-- Any unique identifier
-
-Related guidance for metadata on the open data portal can be found here. Participating Agencies should provide key metadata to accompany the interagency Data Dictionary fields. The Data Governing Board is responsible for developing, documenting and monitoring Data Definitions and Metadata for shared Data Elements within the cross-agency Data Dictionary. The Operating Group works with the Data Governing Board to ensure that the Data Dictionary for each Participating Agency is complete and up-to-date. 

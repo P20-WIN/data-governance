@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modification to policies
+title: Policy Modification
 permalink: /key_processes/policy_modification
 nav_order: 27
 ---

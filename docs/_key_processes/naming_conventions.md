@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Standard naming convention for files and data elements
+title: Standard Naming Conventions
 permalink: /key_processes/data_provider_requirements/naming_conventions
 parent: /key_processes/data_provider_requirements
-nav_order: 23
+nav_order: 29
 ---
 
 # Standard naming convention for files and data elements

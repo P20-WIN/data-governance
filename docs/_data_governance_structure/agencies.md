@@ -2,7 +2,7 @@
 layout: page
 title: Participating Agencies
 permalink: /data_governance_structure/model/agencies
-parent: /data_governance_structure/model
+parent: Data Governance Model
 nav_order: 4
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Resident Advisory Board
 permalink: /data_governance_structure/model/resident_advisory_board
-parent: /data_governance_structure/model
+parent: Data Governance Model
 nav_order: 5
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Data Governing Board Scope and Responsibility
 permalink: /data_governance_structure/data_governing_board_scope
-parent: /data_governance_structure/data_governing_board
+parent: Data Governing Board
 nav_order: 11
 ---
 

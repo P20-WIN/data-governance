@@ -2,7 +2,7 @@
 layout: page
 title: Executive Board Decision Making Process
 permalink: /data_governance_structure/executive_board_process
-parent: /data_governance_structure/executive
+parent: Executive Board
 nav_order: 9
 ---
 

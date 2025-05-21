@@ -2,7 +2,7 @@
 layout: page
 title: Executive Board Scope and Responsibility
 permalink: /data_governance_structure/executive_board_scope
-parent: /data_governance_structure/executive
+parent: Executive Board
 nav_order: 7
 ---
 

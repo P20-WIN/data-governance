@@ -2,7 +2,7 @@
 layout: page
 title: System Management
 permalink: /data_governance_structure/program_support/management
-parent: /data_governance_structure/program_support
+parent: Program Support
 nav_order: 17
 ---
 

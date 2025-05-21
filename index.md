@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Introduction
+nav_exclude: true
 ---
 
 # About the P20 WIN Data Governance Manual 

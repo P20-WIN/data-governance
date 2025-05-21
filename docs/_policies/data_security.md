@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Data security
+title: Data SSecurity
 permalink: /policies/data_security
-nav_order: 30
+parent: Data Access and Privacy Policies
+nav_order: 31
 ---
 
 # Other open data resources

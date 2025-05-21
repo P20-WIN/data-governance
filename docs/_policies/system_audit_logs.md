@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
+title: System Audit Logs
+permalink: /policies/system_audit_logs
 parent: Data Quality and Control Policies
-nav_order: 35
+nav_order: 38
 ---
 
 ## Metadata and data dictionaries 

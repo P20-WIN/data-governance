@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
-parent: Data Quality and Control Policies
-nav_order: 35
+title: Method of Data Linkage
+permalink: /policies/data_linkage_method
+parent: Data Access and Privacy Policies
+nav_order: 34
 ---
 
 ## Metadata and data dictionaries 

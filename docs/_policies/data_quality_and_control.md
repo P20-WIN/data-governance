@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
-parent: Data Quality and Control Policies
-nav_order: 35
+title: Data Quality and Control Policies
+permalink: /policies/data_quality_and_control
+nav_order: 33
 ---
 
 ## Metadata and data dictionaries 

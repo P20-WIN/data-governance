@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Data quality
+title: Defining Data Quality for P20 WIN
 permalink: /policies/data_quality
+parent: Data Quality and Control Policies
 nav_order: 29
 ---
 

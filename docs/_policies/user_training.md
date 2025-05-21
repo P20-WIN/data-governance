@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
+title: User Training 
+permalink: /policies/user_training
 parent: Data Quality and Control Policies
-nav_order: 35
+nav_order: 40
 ---
 
 ## Metadata and data dictionaries 

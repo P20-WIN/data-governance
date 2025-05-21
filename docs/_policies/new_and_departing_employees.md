@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
+title: New and Departing Employees
+permalink: /policies/new_and_departing_employees
 parent: Data Quality and Control Policies
-nav_order: 35
+nav_order: 41
 ---
 
 ## Metadata and data dictionaries 

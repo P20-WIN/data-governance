@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
+title: Conducting Analysis with Your Own Agency's Data
+permalink: /policies/docs/_policies/analysis_with_own_agency_data
 parent: Data Quality and Control Policies
-nav_order: 35
+nav_order: 42
 ---
 
 ## Metadata and data dictionaries 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
+title: Participating Agency Audits
+permalink: /policies/participating_agency_audits
 parent: Data Quality and Control Policies
-nav_order: 35
+nav_order: 39
 ---
 
 ## Metadata and data dictionaries 

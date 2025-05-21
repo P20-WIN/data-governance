@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
+title: Process for Improving Data Quality
+permalink: /policies/improving_data_quality
 parent: Data Quality and Control Policies
-nav_order: 35
+nav_order: 37
 ---
 
 ## Metadata and data dictionaries 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metadata Management
-permalink: /policies/metadata
-parent: Data Quality and Control Policies
-nav_order: 35
+title: Confidentiality
+permalink: /policies/confidentiality
+parent: Data Access and Privacy Policies
+nav_order: 30
 ---
 
 ## Metadata and data dictionaries 

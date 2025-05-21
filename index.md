@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Introduction
-nav_order: 1
 ---
 
 # About the P20 WIN Data Governance Manual 
